@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Thinker28, a student interested in Competative Programming, machine learning, and cybersecurity. I'm always looking for new things to learn! You can reach me on discord at lotus#2251.
+I'm Thinker28, a student interested in Competative Programming, Machine learning, and Cybersecurity. I'm always looking for new things to learn! You can reach me on discord at lotus#2251.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thinker28&count_private=true&theme=react&show_icons=true" />
