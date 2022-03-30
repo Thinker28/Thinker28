@@ -5,13 +5,13 @@
 - 📫 How to reach me ...
 ## Hey there 👋
 
-I'm 0x6F72656F73, a student interested in full stack apps, data science, and cybersecurity. I'm always looking for new things to learn! You can reach me on discord at 0x6F72656F73#3448, and find me on ctftime at <https://ctftime.org/user/92127>.
+I'm Thinker28, a student interested in full stack apps, machine learning, and cybersecurity. I'm always looking for new things to learn! You can reach me on discord at lotus#2251.
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x6F72656F73&count_private=true&theme=react&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thinker28&count_private=true&theme=react&show_icons=true" />
   <br />
   <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x6F72656F73&theme=react&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinker28&theme=react&layout=compact" />
 </p>
 
 <p align="center">
@@ -37,5 +37,5 @@ I'm 0x6F72656F73, a student interested in full stack apps, data science, and cyb
 </p>
   
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=0x6F72656F73&style=flat&color=0037ff" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=Thinker28&style=flat&color=0037ff" />
 </p>
