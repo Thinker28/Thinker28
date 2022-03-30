@@ -10,11 +10,9 @@ I'm Thinker28, a student interested in Competative Programming, machine learning
 </p>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/badge/Code-react-informational?style=for-the-badge&logo=react&color=0037ff" />
-  <img align="center" src="https://img.shields.io/badge/Code-vue-informational?style=for-the-badge&logo=vue.js&color=0037ff" />
-  <img align="center" src="https://img.shields.io/badge/Code-node-informational?style=for-the-badge&logo=node.js&color=0037ff" />
+  <img align="center" src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2b%2b&color=0037ff" />
+  <img align="center" src="https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react.js&color=0037ff" />
   <img align="center" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=0037ff" />
-  <img align="center" src="https://img.shields.io/badge/Code-java-informational?style=for-the-badge&logo=java&color=0037ff" />
 </p>
 
 <p align="center">
